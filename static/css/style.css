@@ -1,0 +1,16 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  font-family: 'Cairo', sans-serif;
+}
+.login{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.col_check_head{
+  writing-mode: vertical-lr;
+  width: 10px;
+}
